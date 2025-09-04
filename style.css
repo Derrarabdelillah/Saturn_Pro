@@ -612,6 +612,9 @@ a {
         display: none;
     }
 
+    .form-header h1 {
+        font-size: 25px;
+    }
 
     .mobile-auth {
         display: block;
